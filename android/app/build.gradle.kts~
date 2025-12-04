@@ -29,7 +29,7 @@ android {
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
-    flavorDimensions += "default"
+    flavorDimensions += "default" 
 
     productFlavors {
         create("production") {

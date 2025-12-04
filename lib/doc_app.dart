@@ -7,7 +7,8 @@ import 'core/routing/routes.dart';
 
 class DocApp extends StatelessWidget {
   final AppRouter appRouter;
-  const DocApp({super.key, required this.appRouter});
+  const DocApp({super.key, required this.appRouter, this.flavor});
+  final String? flavor;
 
   @override
   Widget build(BuildContext context) {
