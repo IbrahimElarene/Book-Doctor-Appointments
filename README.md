@@ -4,6 +4,7 @@ This repository contains the structure and main screens of the **Doctor Appointm
 
 ## Repo Structure
 <img width="458" height="543" alt="Structure" src="https://github.com/user-attachments/assets/26400e0d-4592-4654-bd66-d88ad253f37e" />
+
 ## Screens
 
 - **Splash Screen**
