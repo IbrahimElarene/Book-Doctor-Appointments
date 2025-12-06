@@ -21,3 +21,6 @@ This repository contains the structure and main screens of the **Doctor Appointm
 
 - **Home Screen**
 <img width="375" height="812" alt="Homepage" src="https://github.com/user-attachments/assets/68194456-51dc-436d-ac0f-08033ea4dcd0" />
+
+## pubspec.yaml
+<img width="498" height="697" alt="pubspec" src="https://github.com/user-attachments/assets/18de53ad-bec6-4827-8a64-a1ef8127275b" />
