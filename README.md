@@ -1,16 +1,25 @@
-# doctors_appointments
+# Book-Doctor-Appointments
 
-A new Flutter project.
+This repository contains the structure and main screens of the **Doctor Appointment Booking App**.
 
-## Getting Started
+## Repo Structure
+![Repo Structure](repo_structure.png)
+<img width="458" height="543" alt="Structure" src="https://github.com/user-attachments/assets/26400e0d-4592-4654-bd66-d88ad253f37e" />
 
-This project is a starting point for a Flutter application.
+## Screens
 
-A few resources to get you started if this is your first Flutter project:
+- **Splash Screen**
+  ![Splash Screen](splash_screen/splash_screen.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Onboarding**
+  ![Onboarding 1](onboarding/onboarding_1.png)
+  ![Onboarding 2](onboarding/onboarding_2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Login Screen**
+  ![Login Screen](login/login_screen.png)
+
+- **Sign Up Screen**
+  ![Sign Up Screen](sign_up/sign_up_screen.png)
+
+- **Home Screen**
+  ![Home Screen](home_screen/home_screen.png)
