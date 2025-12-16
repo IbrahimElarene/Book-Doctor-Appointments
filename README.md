@@ -1,16 +1,26 @@
-# doctors_appointments
+# Book-Doctor-Appointments
 
-A new Flutter project.
+This repository contains the structure and main screens of the **Doctor Appointment Booking App**.
 
-## Getting Started
+## Repo Structure
+<img width="458" height="543" alt="Structure" src="https://github.com/user-attachments/assets/26400e0d-4592-4654-bd66-d88ad253f37e" />
 
-This project is a starting point for a Flutter application.
+## Screens
 
-A few resources to get you started if this is your first Flutter project:
+- **Splash Screen**
+<img width="1500" height="3248" alt="Splash Screen" src="https://github.com/user-attachments/assets/bfa78d7d-c276-437c-87d2-a152746df6ac" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Onboarding**
+<img width="375" height="812" alt="Onboarding" src="https://github.com/user-attachments/assets/1006192a-b7ed-4919-a0dc-e54662584bd3" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Login Screen**
+<img width="375" height="812" alt="Sign In" src="https://github.com/user-attachments/assets/fb4a9349-90ce-48c2-b60e-f99c11621821" />
+
+- **Sign Up Screen**
+<img width="375" height="812" alt="Sign Up" src="https://github.com/user-attachments/assets/7fa1ea23-592b-4c28-8a23-0cd1cd5c11b5" />
+
+- **Home Screen**
+<img width="375" height="812" alt="Homepage" src="https://github.com/user-attachments/assets/68194456-51dc-436d-ac0f-08033ea4dcd0" />
+
+## pubspec.yaml
+<img width="498" height="697" alt="pubspec" src="https://github.com/user-attachments/assets/18de53ad-bec6-4827-8a64-a1ef8127275b" />
